@@ -1,2 +1,2 @@
-print "hello, David."
+print "hello, David!"
 
